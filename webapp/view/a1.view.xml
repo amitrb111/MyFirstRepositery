@@ -5,6 +5,14 @@
 				<Page id="page" title="{i18n>title}">
 					<content>
 						<Button text="go to next" press="onclick"/>
+						<Label text="7.5
+Washington Sundar to Munro, 1 run, leg-side delivery swept to fine leg
+7.4
+Washington Sundar to Munro, SIX, pleasantaries only after the game please! Freebie full toss, Munro happily swings and hits this over deep square leg. Kohli won't be happy with that sort of a delivery
+7.3
+Washington Sundar to Munro, no run, oh inside edge onto pad as Munro looks to drive after backing away, he expected turn but it came it with the angle from round the wicket
+7.2
+Washington Sundar to Seifert, 1 run, flatter delivery, Seifert cuts to backward point, Chahal dives to save three runs"/>
 					</content>
 				</Page>
 			</pages>
